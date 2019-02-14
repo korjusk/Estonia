@@ -40,9 +40,21 @@ Internet censorship and surveillance by country
 [[wiki]](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
 
 #### Freedom on the Net
-https://freedomhouse.org/report/freedom-net/freedom-net-2016  
-https://freedomhouse.org/report/table-country-scores-fotn-2017  
-https://freedomhouse.org/report/freedom-net/freedom-net-2018  
+Rank|Country|Freedom
+---|---|---
+1|Estonia|6
+2|Iceland|6
+3|Canada|15
+4|Germany|19
+...|...|...
+...|mean|47
+...|...|...
+62|Ethiopia|83
+63|Syria|83
+64|Iran|85
+65|China|88
+
+[2016](https://freedomhouse.org/report/freedom-net/freedom-net-2016), [2017](https://freedomhouse.org/report/table-country-scores-fotn-2017) and [2018](https://freedomhouse.org/report/freedom-net/freedom-net-2018).
 
 #### Tax
 2015 International Tax Competitiveness Index
