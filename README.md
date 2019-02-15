@@ -107,8 +107,8 @@ Rank|Country|Weeks
 
 The Digital Public Services. [[2017]](http://ec.europa.eu/newsroom/document.cfm?doc_id=44393)
 
-![](images/digital.png)
-<br>
+![](images/digital.png)  
+<br> <br>
 
 ### How are the former Soviet countries doing today?
 
