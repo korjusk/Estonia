@@ -3,12 +3,11 @@ Good Facts About Estonia
 
 Estonia, is a country in Northern Europe. It is a developed country with an advanced, high-income economy that has been among the fastest-growing in the EU. Estonia ranks very high in the Human Development Index, and performs favourably in measurements of economic freedom, civil liberties, education, and press freedom. Estonian citizens are provided with universal health care and free education. One of the world's most digitally advanced societies, in 2005 Estonia became the first state to hold elections over the Internet, and in 2014 the first state to provide e-residency.  
 A balanced budget, almost non-existent public debt, flat-rate income tax, free trade regime, competitive commercial banking sector, innovative e-Services and even mobile-based services are all hallmarks of Estonia's market economy.
-Estonia's economy continues to benefit from a transparent government and policies that sustain a high level of economic freedom, ranking 6th globally and 2nd in Europe. Estonia has the third lowest business bribery risk in the world.  
-[[wiki/Estonia]](https://en.wikipedia.org/wiki/Estonia)  
+Estonia's economy continues to benefit from a transparent government and policies that sustain a high level of economic freedom, ranking 6th globally and 2nd in Europe. Estonia has the third lowest business bribery risk in the world. [[wiki]](https://en.wikipedia.org/wiki/Estonia)  
 
-Its capital and largest city, Tallinn, is often dubbed the Silicon Valley of Europe. Tallinn has the highest number of startups per person in Europe.  
-[[wiki/Tallinn]](https://en.wikipedia.org/wiki/Tallinn)
+Its capital and largest city, Tallinn, is often dubbed the Silicon Valley of Europe. Tallinn has the highest number of startups per person in Europe. [[wiki]](https://en.wikipedia.org/wiki/Tallinn)
 
+---
 
 #### PISA
 
@@ -51,7 +50,7 @@ Rank|Country|Freedom
 
 #### Tax
 
-International Tax Competitiveness Index  
+International Tax Competitiveness Index. [[2018]](https://taxfoundation.org/publications/international-tax-competitiveness-index/)   
 
 Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption Taxes Rank|Property Taxes Rank|International Tax Rules Rank
 ---|---|---|---|---|---|---|---
@@ -61,8 +60,6 @@ Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption 
 4|Luxembourg|80.5|21|17|2|18|1
 ...|...|...|...|...|...|...|...
 35|France|41.4|34|34|21|35|24
-
-[[2018]](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
 
 
 #### Literacy
@@ -108,9 +105,9 @@ Rank|Country|Weeks
 
 #### Digital Services
 
-The Digital Public Services  
+The Digital Public Services. [[2017]](http://ec.europa.eu/newsroom/document.cfm?doc_id=44393)
+
 ![](images/digital.png)
-[[2017]](http://ec.europa.eu/newsroom/document.cfm?doc_id=44393)
 
 
 ### How are the former Soviet countries doing today?
@@ -130,6 +127,7 @@ Gross domestic product (at purchasing power parity) per capita.
 #### Democracy
 ![](images/democracy.png)
 
+---
 
 ### Data
 Full tables are available in [/data](https://github.com/korjusk/Estonia/tree/master/data) directory.
