@@ -18,8 +18,6 @@ Rank|Country|"Believe in God, absolutely certain"
 2|Czech Republic|13%
 3|Russia|25%
 ...|...|...
-16|Bosnia|66%
-17|Georgia|73%
 18|Armenia|79%
   
 [[wiki]](https://en.wikipedia.org/wiki/Demographics_of_atheism)
@@ -35,8 +33,6 @@ Rank|Country|Freedom
 2|Iceland|6
 3|Canada|15
 ...|...|...
-63|Syria|83
-64|Iran|85
 65|China|88
 
 [2016](https://freedomhouse.org/report/freedom-net/freedom-net-2016), [2017](https://freedomhouse.org/report/table-country-scores-fotn-2017) and [2018](https://freedomhouse.org/report/freedom-net/freedom-net-2018).
@@ -50,6 +46,8 @@ Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption 
 2|Latvia|86.0|2|2|27|6|5
 3|New Zealand|83.0|18|3|6|3|15
 4|Luxembourg|80.5|21|17|2|18|1
+...|...|...|...|...|...|...|...
+35|France|41.4|34|34|21|35|24
 
 [2018](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
 
@@ -60,6 +58,8 @@ Rank|Country|Adult literacy
 1|Estonia|99.9
 2|Latvia|99.9
 3|Lithuania|99.8
+...|...|...
+15|Malta|93.3
 
 [[wiki]](https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate)
 
@@ -73,8 +73,6 @@ Rank|Country|Dept %
 2|Luxembourg|22
 3|Bulgaria|23
 ...|...|...
-28|Portugal|125
-29|Italy|133
 30|Greece|182
 
 [2018](https://www.statista.com/statistics/269684/national-debt-in-eu-countries-in-relation-to-gross-domestic-product-gdp/)
@@ -87,14 +85,10 @@ Rank|Country|Weeks
 1|Estonia|62
 2|Bulgaria|58
 3|Croatia|58
-4|Bosnia and Herzegovina|52
 ...|...|...
 ...|mean|16
 ...|...|...
-179|Syrian Arab Republic|7
-180|Tunisia|4
-181|United States of America|0
-182|Papua New Guinea|0
+182|United States of America|0
 
 #### Digital Services
 The Digital Public Services  
