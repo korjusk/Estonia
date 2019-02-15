@@ -10,53 +10,47 @@ Its capital and largest city, Tallinn, is often dubbed the Silicon Valley of Eur
 [[wiki/Tallinn]](https://en.wikipedia.org/wiki/Tallinn)
 
 
+#### PISA
 
+The Programme for International Student Assessment (PISA) is a worldwide study, intended to evaluate educational systems by measuring 15-year-old school pupils' scholastic performance on mathematics, science, and reading.  [[wiki]](https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment)
+
+Rank|Country|Science|Math|Reading|Total
+---|---|---|---|---|---
+1|Estonia|534|520|519|1573
+2|Finland|531|511|526|1568
+3|Slovenia|513|510|505|1528
+...|...|...
+27|Cyprus|433|437|443|1313
+
+ 
 #### Atheism
+
+Demographics of atheism. [[wiki]](https://en.wikipedia.org/wiki/Demographics_of_atheism)
+
 Rank|Country|"Believe in God, absolutely certain"
 ---|---|---
 1|Estonia|13%
 2|Czech Republic|13%
 3|Russia|25%
-4|Hungary|26%
-5|Belarus|26%
-6|Latvia|28%
-7|Bulgaria|30%
-8|Ukraine|32%
-9|Lithuania|34%
-10|Poland|45%
-11|Moldova|55%
-12|Croatia|57%
-13|Serbia|58%
-14|Greece|59%
-15|Romania|64%
-16|Bosnia|66%
-17|Georgia|73%
+...|...|...
 18|Armenia|79%
-  
-[[wiki]](https://en.wikipedia.org/wiki/Demographics_of_atheism)
 
-
-Internet censorship and surveillance by country
-[[wiki]](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
 
 #### Freedom on the Net
+
+Fake news, data collection, and the challenge to democracy. [[2016]](https://freedomhouse.org/report/freedom-net/freedom-net-2016), [[2017]](https://freedomhouse.org/report/table-country-scores-fotn-2017) and [[2018]](https://freedomhouse.org/report/freedom-net/freedom-net-2018).
+
 Rank|Country|Freedom
 ---|---|---
 1|Estonia|6
 2|Iceland|6
 3|Canada|15
-4|Germany|19
 ...|...|...
-...|mean|47
-...|...|...
-62|Ethiopia|83
-63|Syria|83
-64|Iran|85
 65|China|88
 
-[2016](https://freedomhouse.org/report/freedom-net/freedom-net-2016), [2017](https://freedomhouse.org/report/table-country-scores-fotn-2017) and [2018](https://freedomhouse.org/report/freedom-net/freedom-net-2018).
 
 #### Tax
+
 International Tax Competitiveness Index  
 
 Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption Taxes Rank|Property Taxes Rank|International Tax Rules Rank
@@ -66,76 +60,78 @@ Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption 
 3|New Zealand|83.0|18|3|6|3|15
 4|Luxembourg|80.5|21|17|2|18|1
 ...|...|...|...|...|...|...|...
-32|Portugal|48.2|33|29|31|19|28
-33|Poland|47.7|9|16|35|32|30
-34|Italy|46.9|32|32|20|33|26
 35|France|41.4|34|34|21|35|24
 
-[2018](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
+[[2018]](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
+
 
 #### Literacy
+
+List of countries by adult (15+) literacy rate. [[wiki]](https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate)
 
 Rank|Country|Adult literacy
 ---|---|---
 1|Estonia|99.9
 2|Latvia|99.9
 3|Lithuania|99.8
-4|Slovenia|99.7
 ...|...|...
-12|Spain|98.3
-13|Greece|97.4
-14|Portugal|94.5
 15|Malta|93.3
-
-[[wiki]](https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate)
 
 
 #### Dept
-Estonia has the smallest public debt as a percentage of gross domestic product (GDP) of any state in Europe, as well as in the European Union and Eurozone.
+
+Public debt as a percentage of gross domestic product (GDP). [[2018]](https://www.statista.com/statistics/269684/national-debt-in-eu-countries-in-relation-to-gross-domestic-product-gdp/)
 
 Rank|Country|Dept %
 ---|---|---
 1|Estonia|8
 2|Luxembourg|22
 3|Bulgaria|23
-4|Romania|34
 ...|...|...
-...|EU|81
-...|...|...
-27|Cyprus|111
-28|Portugal|125
-29|Italy|133
 30|Greece|182
 
-[2018](https://www.statista.com/statistics/269684/national-debt-in-eu-countries-in-relation-to-gross-domestic-product-gdp/)
 
 #### Maternity leave
-Estonia has the longest-paid maternity leave in the world - 62 weeks. [[wiki]](https://en.wikipedia.org/wiki/Parental_leave)  
+
+Estonia has the longest-paid maternity leave in the world - 62 weeks. [[wiki]](https://en.wikipedia.org/wiki/Parental_leave) 
 
 Rank|Country|Weeks
 ---|---|---
 1|Estonia|62
 2|Bulgaria|58
 3|Croatia|58
-4|Bosnia and Herzegovina|52
 ...|...|...
 ...|mean|16
 ...|...|...
-179|Syrian Arab Republic|7
-180|Tunisia|4
-181|United States of America|0
-182|Papua New Guinea|0
+182|United States of America|0
+
+
+#### Digital Services
+
+The Digital Public Services  
+![](images/digital.png)
+[[2017]](http://ec.europa.eu/newsroom/document.cfm?doc_id=44393)
 
 
 ### How are the former Soviet countries doing today?
-www.youtube.com/watch?v=ysNauzn_GUA
+
+[[YT]](www.youtube.com/watch?v=ysNauzn_GUA)
+
 
 #### GDP
 Gross domestic product (at purchasing power parity) per capita.
 ![](images/GDP.png)
 
+
 #### Human Development
 ![](images/human.png)
 
+
 #### Democracy
 ![](images/democracy.png)
+
+
+<!--- Comments and notes
+No results at googles first page:
+growth of life expectancy by countries
+-->
