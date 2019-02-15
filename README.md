@@ -115,7 +115,7 @@ The Digital Public Services
 
 ### How are the former Soviet countries doing today?
 
-[[YT]](www.youtube.com/watch?v=ysNauzn_GUA)
+[[YT]](http://www.youtube.com/watch?v=ysNauzn_GUA)
 
 
 #### GDP
@@ -129,6 +129,10 @@ Gross domestic product (at purchasing power parity) per capita.
 
 #### Democracy
 ![](images/democracy.png)
+
+
+### Data
+Full tables are available in [/data](https://github.com/korjusk/Estonia/tree/master/data) directory.
 
 
 <!--- Comments and notes
