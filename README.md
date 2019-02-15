@@ -1,7 +1,6 @@
 # Estonia
 
-Estonia, is a country in Northern Europe. It is a developed country with an advanced, high-income economy that has been among the fastest-growing in the EU. Estonia ranks very high in the Human Development Index, and performs favourably in measurements of economic freedom, civil liberties, education, and press freedom. Estonian citizens are provided with universal health care and free education. One of the world's most digitally advanced societies, in 2005 Estonia became the first state to hold elections over the Internet, and in 2014 the first state to provide e-residency.  
-A balanced budget, almost non-existent public debt, flat-rate income tax, free trade regime, competitive commercial banking sector, innovative e-Services and even mobile-based services are all hallmarks of Estonia's market economy.
+Estonia, is a country in Northern Europe. It is a developed country with an advanced, high-income economy that has been among the fastest-growing in the EU. Estonian citizens are provided with universal health care and free education. One of the world's most digitally advanced societies, in 2005 Estonia became the first state to hold elections over the Internet, and in 2014 the first state to provide e-residency.  
 Estonia's economy continues to benefit from a transparent government and policies that sustain a high level of economic freedom, ranking 6th globally and 2nd in Europe. Estonia has the third lowest business bribery risk in the world. [[wiki]](https://en.wikipedia.org/wiki/Estonia)  
 
 Its capital and largest city, Tallinn, is often dubbed the Silicon Valley of Europe. Tallinn has the highest number of startups per person in Europe. [[wiki]](https://en.wikipedia.org/wiki/Tallinn)
@@ -85,6 +84,19 @@ Rank|Country|Adult literacy
 3|Lithuania|99.8
 ...|...|...
 15|Malta|93.3
+<br>
+
+### Cybersecurity
+
+Europe Cybersecurity Index [[2017]](https://www.itu.int/dms_pub/itu-d/opb/str/d-str-gci.01-2017-pdf-e.pdf)
+
+Rank|Country|Cybersecurity
+---|---|---
+1|Estonia|0.846
+2|France|0.819
+3|Norway|0.786
+...|...|...
+43|Vatican|0.04
 <br>
 
 #### Dept
