@@ -7,7 +7,7 @@ Estonia's economy continues to benefit from a transparent government and policie
 
 Its capital and largest city, Tallinn, is often dubbed the Silicon Valley of Europe. Tallinn has the highest number of startups per person in Europe. [[wiki]](https://en.wikipedia.org/wiki/Tallinn)
 
----
+<br>
 
 #### PISA
 
@@ -20,8 +20,8 @@ Rank|Country|Science|Math|Reading|Total
 3|Slovenia|513|510|505|1528
 ...|...|...
 27|Cyprus|433|437|443|1313
+<br>
 
- 
 #### Atheism
 
 Demographics of atheism. [[wiki]](https://en.wikipedia.org/wiki/Demographics_of_atheism)
@@ -33,7 +33,7 @@ Rank|Country|"Believe in God, absolutely certain"
 3|Russia|25%
 ...|...|...
 18|Armenia|79%
-
+<br>
 
 #### Freedom on the Net
 
@@ -46,7 +46,7 @@ Rank|Country|Freedom
 3|Canada|15
 ...|...|...
 65|China|88
-
+<br>
 
 #### Tax
 
@@ -60,7 +60,7 @@ Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption 
 4|Luxembourg|80.5|21|17|2|18|1
 ...|...|...|...|...|...|...|...
 35|France|41.4|34|34|21|35|24
-
+<br>
 
 #### Literacy
 
@@ -73,7 +73,7 @@ Rank|Country|Adult literacy
 3|Lithuania|99.8
 ...|...|...
 15|Malta|93.3
-
+<br>
 
 #### Dept
 
@@ -86,7 +86,7 @@ Rank|Country|Dept %
 3|Bulgaria|23
 ...|...|...
 30|Greece|182
-
+<br>
 
 #### Maternity leave
 
@@ -101,14 +101,14 @@ Rank|Country|Weeks
 ...|mean|16
 ...|...|...
 182|United States of America|0
-
+<br>
 
 #### Digital Services
 
 The Digital Public Services. [[2017]](http://ec.europa.eu/newsroom/document.cfm?doc_id=44393)
 
 ![](images/digital.png)
-
+<br>
 
 ### How are the former Soviet countries doing today?
 
@@ -117,12 +117,12 @@ The Digital Public Services. [[2017]](http://ec.europa.eu/newsroom/document.cfm?
 
 #### GDP
 Gross domestic product (at purchasing power parity) per capita.
-![](images/GDP.png)
-
+![](images/GDP.png)  
+<br>
 
 #### Human Development
-![](images/human.png)
-
+![](images/human.png)  
+<br>
 
 #### Democracy
 ![](images/democracy.png)
