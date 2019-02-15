@@ -74,6 +74,19 @@ Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption 
 [2018](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
 
 #### Literacy
+
+Rank|Country|Adult literacy
+---|---|---
+1|Estonia|99.9
+2|Latvia|99.9
+3|Lithuania|99.8
+4|Slovenia|99.7
+...|...|...
+12|Spain|98.3
+13|Greece|97.4
+14|Portugal|94.5
+15|Malta|93.3
+
 [[wiki]](https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate)
 
 
