@@ -35,7 +35,7 @@ Rank|Country|Freedom
 ...|...|...
 65|China|88
 
-[2016](https://freedomhouse.org/report/freedom-net/freedom-net-2016), [2017](https://freedomhouse.org/report/table-country-scores-fotn-2017) and [2018](https://freedomhouse.org/report/freedom-net/freedom-net-2018).
+[[2016]](https://freedomhouse.org/report/freedom-net/freedom-net-2016), [[2017]](https://freedomhouse.org/report/table-country-scores-fotn-2017) and [[2018]](https://freedomhouse.org/report/freedom-net/freedom-net-2018).
 
 #### Tax
 International Tax Competitiveness Index  
@@ -49,7 +49,7 @@ Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption 
 ...|...|...|...|...|...|...|...
 35|France|41.4|34|34|21|35|24
 
-[2018](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
+[[2018]](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
 
 #### Literacy
 
@@ -75,7 +75,7 @@ Rank|Country|Dept %
 ...|...|...
 30|Greece|182
 
-[2018](https://www.statista.com/statistics/269684/national-debt-in-eu-countries-in-relation-to-gross-domestic-product-gdp/)
+[[2018]](https://www.statista.com/statistics/269684/national-debt-in-eu-countries-in-relation-to-gross-domestic-product-gdp/)
 
 #### Maternity leave
 Estonia has the longest-paid maternity leave in the world - 62 weeks. [[wiki]](https://en.wikipedia.org/wiki/Parental_leave)  
@@ -93,9 +93,10 @@ Rank|Country|Weeks
 #### Digital Services
 The Digital Public Services  
 ![](images/digital.png)
+[[2017]](http://ec.europa.eu/newsroom/document.cfm?doc_id=44393)
 
 ### How are the former Soviet countries doing today?
-www.youtube.com/watch?v=ysNauzn_GUA
+[[YT]](www.youtube.com/watch?v=ysNauzn_GUA)
 
 #### GDP
 Gross domestic product (at purchasing power parity) per capita.
@@ -106,3 +107,9 @@ Gross domestic product (at purchasing power parity) per capita.
 
 #### Democracy
 ![](images/democracy.png)
+
+
+<!--- Comments and notes
+No results at googles first page:
+growth of life expectancy by countries
+-->
