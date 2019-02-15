@@ -57,8 +57,21 @@ Rank|Country|Freedom
 [2016](https://freedomhouse.org/report/freedom-net/freedom-net-2016), [2017](https://freedomhouse.org/report/table-country-scores-fotn-2017) and [2018](https://freedomhouse.org/report/freedom-net/freedom-net-2018).
 
 #### Tax
-2015 International Tax Competitiveness Index
-https://taxfoundation.org/2015-international-tax-competitiveness-index
+International Tax Competitiveness Index  
+
+Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption Taxes Rank|Property Taxes Rank|International Tax Rules Rank
+---|---|---|---|---|---|---|---
+1|Estonia|100.0|1|1|9|1|6
+2|Latvia|86.0|2|2|27|6|5
+3|New Zealand|83.0|18|3|6|3|15
+4|Luxembourg|80.5|21|17|2|18|1
+...|...|...|...|...|...|...|...
+32|Portugal|48.2|33|29|31|19|28
+33|Poland|47.7|9|16|35|32|30
+34|Italy|46.9|32|32|20|33|26
+35|France|41.4|34|34|21|35|24
+
+[2018](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
 
 #### Literacy
 [[wiki]](https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate)
