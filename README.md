@@ -10,8 +10,23 @@ Its capital and largest city, Tallinn, is often dubbed the Silicon Valley of Eur
 [[wiki/Tallinn]](https://en.wikipedia.org/wiki/Tallinn)
 
 
+#### PISA
 
+The Programme for International Student Assessment (PISA) is a worldwide study, intended to evaluate educational systems by measuring 15-year-old school pupils' scholastic performance on mathematics, science, and reading.  [[wiki]](https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment)
+
+Rank|Country|Science|Math|Reading|Total
+---|---|---|---|---|---
+1|Estonia|534|520|519|1573
+2|Finland|531|511|526|1568
+3|Slovenia|513|510|505|1528
+...|...|...
+27|Cyprus|433|437|443|1313
+
+ 
 #### Atheism
+
+Demographics of atheism. [[wiki]](https://en.wikipedia.org/wiki/Demographics_of_atheism)
+
 Rank|Country|"Believe in God, absolutely certain"
 ---|---|---
 1|Estonia|13%
@@ -19,14 +34,12 @@ Rank|Country|"Believe in God, absolutely certain"
 3|Russia|25%
 ...|...|...
 18|Armenia|79%
-  
-[[wiki]](https://en.wikipedia.org/wiki/Demographics_of_atheism)
 
-
-Internet censorship and surveillance by country
-[[wiki]](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
 
 #### Freedom on the Net
+
+Fake news, data collection, and the challenge to democracy. [[2016]](https://freedomhouse.org/report/freedom-net/freedom-net-2016), [[2017]](https://freedomhouse.org/report/table-country-scores-fotn-2017) and [[2018]](https://freedomhouse.org/report/freedom-net/freedom-net-2018).
+
 Rank|Country|Freedom
 ---|---|---
 1|Estonia|6
@@ -35,9 +48,9 @@ Rank|Country|Freedom
 ...|...|...
 65|China|88
 
-[[2016]](https://freedomhouse.org/report/freedom-net/freedom-net-2016), [[2017]](https://freedomhouse.org/report/table-country-scores-fotn-2017) and [[2018]](https://freedomhouse.org/report/freedom-net/freedom-net-2018).
 
 #### Tax
+
 International Tax Competitiveness Index  
 
 Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption Taxes Rank|Property Taxes Rank|International Tax Rules Rank
@@ -51,7 +64,10 @@ Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption 
 
 [[2018]](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
 
+
 #### Literacy
+
+List of countries by adult (15+) literacy rate. [[wiki]](https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate)
 
 Rank|Country|Adult literacy
 ---|---|---
@@ -61,11 +77,10 @@ Rank|Country|Adult literacy
 ...|...|...
 15|Malta|93.3
 
-[[wiki]](https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate)
-
 
 #### Dept
-Estonia has the smallest public debt as a percentage of gross domestic product (GDP) of any state in Europe, as well as in the European Union and Eurozone.
+
+Public debt as a percentage of gross domestic product (GDP). [[2018]](https://www.statista.com/statistics/269684/national-debt-in-eu-countries-in-relation-to-gross-domestic-product-gdp/)
 
 Rank|Country|Dept %
 ---|---|---
@@ -75,10 +90,10 @@ Rank|Country|Dept %
 ...|...|...
 30|Greece|182
 
-[[2018]](https://www.statista.com/statistics/269684/national-debt-in-eu-countries-in-relation-to-gross-domestic-product-gdp/)
 
 #### Maternity leave
-Estonia has the longest-paid maternity leave in the world - 62 weeks. [[wiki]](https://en.wikipedia.org/wiki/Parental_leave)  
+
+Estonia has the longest-paid maternity leave in the world - 62 weeks. [[wiki]](https://en.wikipedia.org/wiki/Parental_leave) 
 
 Rank|Country|Weeks
 ---|---|---
@@ -90,20 +105,27 @@ Rank|Country|Weeks
 ...|...|...
 182|United States of America|0
 
+
 #### Digital Services
+
 The Digital Public Services  
 ![](images/digital.png)
 [[2017]](http://ec.europa.eu/newsroom/document.cfm?doc_id=44393)
 
+
 ### How are the former Soviet countries doing today?
+
 [[YT]](www.youtube.com/watch?v=ysNauzn_GUA)
+
 
 #### GDP
 Gross domestic product (at purchasing power parity) per capita.
 ![](images/GDP.png)
 
+
 #### Human Development
 ![](images/human.png)
+
 
 #### Democracy
 ![](images/democracy.png)
