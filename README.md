@@ -61,6 +61,19 @@ Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption 
 35|France|41.4|34|34|21|35|24
 <br>
 
+#### Entrepreneurship
+
+Europe's entrepreneurial hotspots [[2014]](http://www3.weforum.org/docs/WEF_Entrepreneurship_in_Europe.pdf)
+
+Rank|Country|Overall %
+---|---|---
+1|Estonia|15.8
+2|Sweden|15.3
+3|Latvia|14.8
+...|...|...
+28|Italy|4.7
+<br>
+
 #### Literacy
 
 List of countries by adult (15+) literacy rate. [[wiki]](https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate)
