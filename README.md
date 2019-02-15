@@ -1,5 +1,4 @@
 # Estonia
-Good Facts About Estonia
 
 Estonia, is a country in Northern Europe. It is a developed country with an advanced, high-income economy that has been among the fastest-growing in the EU. Estonia ranks very high in the Human Development Index, and performs favourably in measurements of economic freedom, civil liberties, education, and press freedom. Estonian citizens are provided with universal health care and free education. One of the world's most digitally advanced societies, in 2005 Estonia became the first state to hold elections over the Internet, and in 2014 the first state to provide e-residency.  
 A balanced budget, almost non-existent public debt, flat-rate income tax, free trade regime, competitive commercial banking sector, innovative e-Services and even mobile-based services are all hallmarks of Estonia's market economy.
