@@ -17,18 +17,7 @@ Rank|Country|"Believe in God, absolutely certain"
 1|Estonia|13%
 2|Czech Republic|13%
 3|Russia|25%
-4|Hungary|26%
-5|Belarus|26%
-6|Latvia|28%
-7|Bulgaria|30%
-8|Ukraine|32%
-9|Lithuania|34%
-10|Poland|45%
-11|Moldova|55%
-12|Croatia|57%
-13|Serbia|58%
-14|Greece|59%
-15|Romania|64%
+...|...|...
 16|Bosnia|66%
 17|Georgia|73%
 18|Armenia|79%
@@ -45,11 +34,7 @@ Rank|Country|Freedom
 1|Estonia|6
 2|Iceland|6
 3|Canada|15
-4|Germany|19
 ...|...|...
-...|mean|47
-...|...|...
-62|Ethiopia|83
 63|Syria|83
 64|Iran|85
 65|China|88
@@ -65,11 +50,6 @@ Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption 
 2|Latvia|86.0|2|2|27|6|5
 3|New Zealand|83.0|18|3|6|3|15
 4|Luxembourg|80.5|21|17|2|18|1
-...|...|...|...|...|...|...|...
-32|Portugal|48.2|33|29|31|19|28
-33|Poland|47.7|9|16|35|32|30
-34|Italy|46.9|32|32|20|33|26
-35|France|41.4|34|34|21|35|24
 
 [2018](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
 
@@ -80,12 +60,6 @@ Rank|Country|Adult literacy
 1|Estonia|99.9
 2|Latvia|99.9
 3|Lithuania|99.8
-4|Slovenia|99.7
-...|...|...
-12|Spain|98.3
-13|Greece|97.4
-14|Portugal|94.5
-15|Malta|93.3
 
 [[wiki]](https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate)
 
@@ -98,11 +72,7 @@ Rank|Country|Dept %
 1|Estonia|8
 2|Luxembourg|22
 3|Bulgaria|23
-4|Romania|34
 ...|...|...
-...|EU|81
-...|...|...
-27|Cyprus|111
 28|Portugal|125
 29|Italy|133
 30|Greece|182
@@ -126,6 +96,9 @@ Rank|Country|Weeks
 181|United States of America|0
 182|Papua New Guinea|0
 
+#### Digital Services
+The Digital Public Services  
+![](images/digital.png)
 
 ### How are the former Soviet countries doing today?
 www.youtube.com/watch?v=ysNauzn_GUA
