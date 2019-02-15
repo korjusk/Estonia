@@ -74,12 +74,40 @@ Rank|Country|Overall Score|Corporate Tax Rank|Individual Taxes Rank|Consumption 
 [2018](https://taxfoundation.org/publications/international-tax-competitiveness-index/) 
 
 #### Literacy
+
+Rank|Country|Adult literacy
+---|---|---
+1|Estonia|99.9
+2|Latvia|99.9
+3|Lithuania|99.8
+4|Slovenia|99.7
+...|...|...
+12|Spain|98.3
+13|Greece|97.4
+14|Portugal|94.5
+15|Malta|93.3
+
 [[wiki]](https://en.wikipedia.org/wiki/List_of_countries_by_literacy_rate)
 
 
-Estonia has the smallest public debt (as a percentage of GDP) of any state in Europe, as well as in the European Union and Eurozone
-https://www.statista.com/statistics/269684/national-debt-in-eu-countries-in-relation-to-gross-domestic-product-gdp/
-National debt in EU countries in the 3rd quarter 2018 in relation to gross domestic product (GDP)
+#### Dept
+Estonia has the smallest public debt as a percentage of gross domestic product (GDP) of any state in Europe, as well as in the European Union and Eurozone.
+
+Rank|Country|Dept %
+---|---|---
+1|Estonia|8
+2|Luxembourg|22
+3|Bulgaria|23
+4|Romania|34
+...|...|...
+...|EU|81
+...|...|...
+27|Cyprus|111
+28|Portugal|125
+29|Italy|133
+30|Greece|182
+
+[2018](https://www.statista.com/statistics/269684/national-debt-in-eu-countries-in-relation-to-gross-domestic-product-gdp/)
 
 #### Maternity leave
 Estonia has the longest-paid maternity leave in the world - 62 weeks. [[wiki]](https://en.wikipedia.org/wiki/Parental_leave)  
